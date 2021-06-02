@@ -2,4 +2,4 @@
 ## about
 still in progress idk what is this for
 
-if im going to be honest i only did this as a joke
+ill probably only use this to fool around with html or smthg
