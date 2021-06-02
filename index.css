@@ -1,10 +1,7 @@
-@font-face {
-  font-family: 'Quat';
-  src: url("../aishanisingh.github.io/QuattrocentoSans-Regular.ttf") format('truetype');
-}
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
 
 body {
-  font-family: 'Quat'
+  font-family: 'Open Sans';
 }
 
 body {
