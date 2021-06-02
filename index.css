@@ -3,7 +3,6 @@
 
 body {
   margin: 0;
-  font-family: 'Lato'
 }
 
 .topnav {
@@ -26,23 +25,24 @@ body {
 }
 
 h1 {
-font-family: 'Quattrocento Sans';
-color: #1d3557;
-margin-left: 5px;
-text-align: left;
+  font-family: 'Quattrocento Sans';
+  color: #1d3557;
+  margin-left: 5px;
+  text-align: left;
 }
 
 h2 {
-font-family: 'Quattrocento Sans';
-color: #9e2a2b;
-margin-left: 5px;
+  font-family: 'Quattrocento Sans';
+  color: #9e2a2b;
+  margin-left: 5px;
 }
 
 h3 {
-margin-left: 5px;
+  margin-left: 5px;
 }
 
 p {
-font-family: 'Quattrocento Sans';
-margin-left: 5px;
+  font-family: 'Quattrocento Sans';
+  margin-left: 5px;
+  color: #9e2a2b;
 }
