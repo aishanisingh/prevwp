@@ -1,7 +1,32 @@
-
-h1 {
-  text-align: center;
-  color: black;
+@font-face {
+  font-family: Quat;
+  src: url(QuattrocentoSans-Regular.ttf);
 }
 
+body {
+  font-family: Quat
+}
+
+body {
+  margin: 0;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #02075d;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #f2f2f2;
+  color: #3366bb;
+}
 
