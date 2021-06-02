@@ -1,11 +1,8 @@
-@font-face {
-  font-family: Quat;
-   src: url("../aishanisingh.github.io/QuattrocentoSans-Regular.ttf") format('truetype');
-}
+@import url(//fonts.googleapis.com/css?family=Lato);
 
 body {
   margin: 0;
-  font-family: 'Quat'
+  font-family: 'Lato'
 }
 
 .topnav {
