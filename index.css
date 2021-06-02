@@ -1,5 +1,4 @@
 @import url(//fonts.googleapis.com/css?family=Lato);
-@import url(//fonts.googleapis.com/css?family=Quattrocento%20Sans);
 
 body {
   margin: 0;
@@ -41,7 +40,6 @@ h3 {
 }
 
 p {
-  font-family: 'Lato';
   margin-left: 5px;
   color: #9e2a2b;
 }
