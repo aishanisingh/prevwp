@@ -44,3 +44,7 @@ p {
   margin-left: 5px;
   color: #9e2a2b;
 }
+
+div {
+  padding-left: 16px;
+}
