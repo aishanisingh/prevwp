@@ -2,12 +2,13 @@
 
 body {
   margin: 0;
-  font-family: 'Lato'
+  font-family: 'Lato';
 }
 
 .topnav {
   overflow: hidden;
   background-color: #02075d;
+  font-family: 'Lato';
 }
 
 .topnav a {
